@@ -10,8 +10,6 @@ Este repositório reúne um **conjunto de prompts (instruções) para usar IA co
 
 O Copiloto oferece diferentes **modos de interação**: desde **tirar dúvidas sem mexer no código**, até **editar trechos específicos**, **planejar mudanças maiores** ou **delegar tarefas mais complexas** a um modo mais autônomo. A ideia é simples: você escolhe o modo que combina com o objetivo do momento e ganha velocidade **sem perder o controle**.
 
-> 💡 Este material é uma adaptação do repositório de referência do curso **"Usando IA Como Copiloto para Criar Novas Features no Seu Projeto"** (DIO), reescrito para o ecossistema Java.
-
 ---
 
 # 🎯 Para quem é
