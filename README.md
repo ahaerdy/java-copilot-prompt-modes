@@ -1,4 +1,4 @@
-# ☕ Modos do Copiloto para Devs Java (Ask, Edit, Plan, Agent e Study)
+# ☕ Modos do Copiloto para Devs Java
 
 ![dio/me](https://img.shields.io/badge/dio-me-ff2d55)
 ![Java](https://img.shields.io/badge/Java-21%20%7C%2025%20LTS-orange)
